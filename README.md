@@ -223,3 +223,22 @@ Pada baris terakhir (`m = 0`) kedua bagian angka tidak tercetak sehingga hanya t
 ## Kesimpulan
 
 Pada praktikum Modul 1 ini telah dipelajari penggunaan Code Blocks IDE serta dasar bahasa C++, meliputi tipe data dan variabel, operator aritmatika, operator input/output (`cin` dan `cout`), struktur kondisional (`if - else`), dan perulangan (`for`). Ketiga program pada latihan berhasil dibuat dan dijalankan sesuai dengan yang diminta soal.
+
+---
+
+## Daftar Pustaka
+
+[1] Laboratorium Informatika, Fakultas Informatika, Telkom University, *Modul Praktikum Struktur Data - Modul 1: Code Blocks IDE & Pengenalan Bahasa C++ (Bagian Pertama)*, Telkom University, Bandung.
+
+[2] L. J. E. Dewi, "Media Pembelajaran Bahasa Pemrograman C++," *Jurnal Pendidikan Teknologi dan Kejuruan*, vol. 7, no. 1, 2012. DOI: [10.23887/jptk.v7i1.31](https://doi.org/10.23887/jptk.v7i1.31)
+
+[3] I. Ramadhana dan B. Sujatmiko, "Pengembangan Aplikasi Kamus Bahasa Pemrograman C++ Berbasis Android untuk Meningkatkan Kompetensi Kognitif Mata Kuliah Struktur Data," *IT-Edu: Jurnal Information Technology and Education*, vol. 3, no. 1, hlm. 85-92, 2018. DOI: [10.26740/it-edu.v3i1.24755](https://doi.org/10.26740/it-edu.v3i1.24755)
+
+[4] A. Ma'arif, *Buku Ajar Dasar Pemrograman C++*, Program Studi Teknik Elektro, Fakultas Teknologi Industri, Universitas Ahmad Dahlan, t.t. Tersedia: https://eprints.uad.ac.id/32726/1/Dasar%20Pemrograman%20Bahasa%20C++.pdf
+
+[5] B. Stroustrup, *The C++ Programming Language*, 4th ed., Addison-Wesley, 2013.
+
+[6] "Code::Blocks - The open source, cross-platform IDE." https://www.codeblocks.org (diakses 29 September 2026).
+
+[7] "C++ reference." cppreference.com. https://en.cppreference.com (diakses 29 September 2026).
+
