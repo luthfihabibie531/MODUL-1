@@ -59,7 +59,7 @@ Perkalian   : 10.5 * 4 = 42
 Pembagian   : 10.5 / 4 = 2.625
 ```
 
-![Output Unguided 1](output/unguided1.png)
+![Output Unguided 1](Soal_1.png)
 
 #### Penjelasan
 
@@ -142,7 +142,7 @@ Masukkan angka (0 - 100): 100
 100 : seratus
 ```
 
-![Output Unguided 2](output/unguided2.png)
+![Output Unguided 2](Soal_2.png)
 
 #### Penjelasan
 
@@ -206,7 +206,7 @@ output:
       *
 ```
 
-![Output Unguided 3](output/unguided3.png)
+![Output Unguided 3](Soal_3.png)
 
 #### Penjelasan
 
